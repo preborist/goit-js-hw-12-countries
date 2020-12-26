@@ -49,7 +49,11 @@
     "webpackbar": "^4.0.0"
   },
   "dependencies": {
+    "bootstrap": "^5.0.0-beta1",
     "core-js": "^3.6.5",
-    "handlebars": "^4.7.6"
+    "handlebars": "^4.7.6",
+    "hbs": "^4.1.1",
+    "lodash.debounce": "^4.0.8",
+    "toastr": "^2.1.4"
   }
 }
